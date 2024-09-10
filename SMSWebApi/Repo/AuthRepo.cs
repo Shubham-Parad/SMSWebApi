@@ -6,6 +6,6 @@ namespace SMSWebApi.Repo
     {
         public void SignUp(Users u);
 
-        public bool SignIn(Users u);
+        public Users SignIn(Users u);
     }
 }

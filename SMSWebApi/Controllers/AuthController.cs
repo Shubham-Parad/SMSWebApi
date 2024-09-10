@@ -27,8 +27,15 @@ namespace SMSWebApi.Controllers
         [HttpPost]
         public IActionResult SignIn(Users u)
         {
-            bool isAuthenticated = repo.SignIn(u);
-            return Ok("User signed in successfully");
+            var data = repo.SignIn(u);
+            if(data != null)
+            {
+                return Ok("SignIn successfull");
+            }
+            else
+            {
+                return Ok("Invalid credentials.");
+            }
         }
 
     }

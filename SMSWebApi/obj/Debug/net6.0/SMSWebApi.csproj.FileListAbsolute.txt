@@ -86,3 +86,4 @@ C:\Users\MASSTECH\source\repos\Shubham Parad\SMSWebApi\SMSWebApi\obj\Debug\net6.
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSWebApi\SMSWebApi\obj\Debug\net6.0\SMSWebApi.genruntimeconfig.cache
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSWebApi\SMSWebApi\obj\Debug\net6.0\ref\SMSWebApi.dll
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSWebApi\SMSWebApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\MASSTECH\source\repos\Shubham Parad\SMSWebApi\SMSWebApi\obj\Debug\net6.0\SMSWebApi.sourcelink.json

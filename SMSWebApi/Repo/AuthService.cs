@@ -1,5 +1,10 @@
-﻿using SMSWebApi.Data;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc;
+using SMSWebApi.Data;
 using SMSWebApi.Models;
+using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
 
 namespace SMSWebApi.Repo
 {
@@ -23,21 +28,10 @@ namespace SMSWebApi.Repo
             db.SaveChanges();
         }
 
-        public bool SignIn(Users u)
+        public Users SignIn(Users u)
         {
-            var user = db.Users.FirstOrDefault(x => x.Email == u.Email);
-            if (user == null)
-            {
-                throw new Exception("Invalid email or password.");
-            }
-
-            // Verify the password
-            bool isPasswordValid = BCrypt.Net.BCrypt.Verify(u.Password, user.Password);
-            if (!isPasswordValid)
-            {
-                throw new Exception("Invalid email or password.");
-            }
-            return true;
+            var data = db.Users.FromSqlRaw($"exec sp_SignIn '{u.UserName}','{u.Password}'").SingleOrDefault();
+            return data;
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMSWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bd7e8e5dcdb6a950a2e9c0faeca6a6801dc085b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMSWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMSWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
