@@ -18,6 +18,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 });
 
 builder.Services.AddScoped<AuthRepo, AuthService>();
+builder.Services.AddScoped<ClassRepo, ClassService>();
+builder.Services.AddScoped<TeacherRepo, TeacherService>();
+builder.Services.AddScoped<StudentRepo, StudentService>();
+//builder.Services.AddScoped<ParentRepo, ParentService>();
 
 var app = builder.Build();
 
