@@ -30,7 +30,7 @@ namespace SMSWebApi.Repo
 
         public Users SignIn(Users u)
         {
-            var data = db.Users.FromSqlRaw($"exec sp_SignIn '{u.UserName}','{u.Password}'").SingleOrDefault();
+            var data = db.Users.FromSqlRaw($"exec sp_SignIn '{u.UserName}','{u.Password}'").AsEnumerable().SingleOrDefault();
             return data;
         }
     }

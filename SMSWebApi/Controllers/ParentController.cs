@@ -14,7 +14,7 @@ namespace SMSWebApi.Controllers
         {
             this.repo = repo;
         }
-        [Route("AddParent")]
+        [Route("AddParent/")]
         [HttpPost]
         public IActionResult AddParent(Parent p)
         {

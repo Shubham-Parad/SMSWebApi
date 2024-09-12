@@ -17,11 +17,13 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("dbconn"));
 });
 
-builder.Services.AddScoped<AuthRepo, AuthService>();
 builder.Services.AddScoped<ClassRepo, ClassService>();
-builder.Services.AddScoped<TeacherRepo, TeacherService>();
+builder.Services.AddScoped<ParentRepo, ParentService>();
 builder.Services.AddScoped<StudentRepo, StudentService>();
-//builder.Services.AddScoped<ParentRepo, ParentService>();
+builder.Services.AddScoped<SubjectRepo, SubjectService>();
+builder.Services.AddScoped<TeacherRepo, TeacherService>();
+builder.Services.AddScoped<TimetableRepo, TimetableService>();
+builder.Services.AddScoped<AuthRepo, AuthService>();
 
 var app = builder.Build();
 

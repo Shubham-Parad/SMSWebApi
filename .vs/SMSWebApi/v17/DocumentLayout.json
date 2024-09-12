@@ -1,66 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\parentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\parentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\parentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\parentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Migrations\\20240911185250_Parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SMSWebApi\\Migrations\\20240911185250_Parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\shubham\\source\\repos\\smswebapi\\smswebapi\\repo\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\repo\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\repo\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\repo\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smswebapi\\smswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{986388A0-A45B-4333-81EA-02D3B5A9D05E}|SMSWebApi\\SMSWebApi.csproj|solutionrelative:smswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +58,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 16,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SMSWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\appsettings.json",
+              "RelativeToolTip": "SMSWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T08:17:47.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Program.cs",
+              "RelativeToolTip": "SMSWebApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:14:09.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -114,6 +126,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -126,197 +142,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ParentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\ParentRepo.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\ParentRepo.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\ParentRepo.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\ParentRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:53:46.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ParentService.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\ParentService.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\ParentService.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\ParentService.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\ParentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SMSWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:53:27.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240911185250_Parent.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Migrations\\20240911185250_Parent.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Migrations\\20240911185250_Parent.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Migrations\\20240911185250_Parent.cs",
-              "RelativeToolTip": "SMSWebApi\\Migrations\\20240911185250_Parent.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:52:50.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Teacher.cs",
-              "RelativeToolTip": "SMSWebApi\\Models\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:48:51.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Parent.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Parent.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Parent.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Parent.cs",
-              "RelativeToolTip": "SMSWebApi\\Models\\Parent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:27:45.949Z",
+              "WhenOpened": "2024-09-12T11:41:47.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ParentController.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\ParentController.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Controllers\\ParentController.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\ParentController.cs",
-              "RelativeToolTip": "SMSWebApi\\Controllers\\ParentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\AuthService.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\AuthService.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\AuthService.cs",
+              "RelativeToolTip": "SMSWebApi\\Repo\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:26:06.993Z",
+              "WhenOpened": "2024-09-12T11:20:28.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\StudentService.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\StudentService.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\StudentService.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "DocumentIndex": 2,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Timetable.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Timetable.cs",
+              "RelativeToolTip": "SMSWebApi\\Models\\Timetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:20:52.649Z",
+              "WhenOpened": "2024-09-12T10:01:41.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\StudentRepo.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\StudentRepo.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\StudentRepo.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\StudentRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "SMSWebApi\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:20:40.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SMSWebApi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:18:49.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "SMSWebApi\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:16:58.449Z",
+              "WhenOpened": "2024-09-12T10:01:37.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Program.cs",
-              "RelativeToolTip": "SMSWebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Subject.cs",
+              "RelativeToolTip": "SMSWebApi\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:14:09.333Z",
+              "WhenOpened": "2024-09-12T10:01:28.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "SMSWebApi\\Controllers\\TeacherController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:56:28.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SMSWebApi\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Student.cs",
               "RelativeToolTip": "SMSWebApi\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:17:17.273Z",
+              "WhenOpened": "2024-09-12T10:01:25.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\TeacherService.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\TeacherService.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\TeacherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Parent.cs",
+              "RelativeToolTip": "SMSWebApi\\Models\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:51:10.781Z",
+              "WhenOpened": "2024-09-12T10:01:22.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeacherRepo.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\TeacherRepo.cs",
-              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\TeacherRepo.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSWebApi\\SMSWebApi\\Repo\\TeacherRepo.cs",
-              "RelativeToolTip": "SMSWebApi\\Repo\\TeacherRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "DocumentIndex": 9,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\ClassService.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\ClassService.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\ClassService.cs",
+              "RelativeToolTip": "SMSWebApi\\Repo\\ClassService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:50:54.449Z",
+              "WhenOpened": "2024-09-12T09:30:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassRepo.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\ClassRepo.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Repo\\ClassRepo.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Repo\\ClassRepo.cs",
+              "RelativeToolTip": "SMSWebApi\\Repo\\ClassRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:30:23.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "SMSWebApi\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSWebApi\\SMSWebApi\\Models\\Classes.cs",
+              "RelativeToolTip": "SMSWebApi\\Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:14:01.636Z",
               "EditorCaption": ""
             }
           ]
